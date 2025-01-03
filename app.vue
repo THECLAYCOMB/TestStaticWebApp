@@ -2,6 +2,10 @@
   <div>
     <!-- <NuxtRouteAnnouncer />
     <NuxtWelcome /> -->
-    Hello world!
+    <TestComponent/>
   </div>
 </template>
+
+<script lang="ts">
+
+</script>
